@@ -1,0 +1,5 @@
+workflows:
+  android-workflow:
+    name: Build Android APK
+    environment:
+      java: "11"  # یا هر نسخه جاوای دیگری که نیاز دارید
